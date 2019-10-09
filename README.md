@@ -1,5 +1,5 @@
 This is an implementation of a message queue I made for a coding challenge for a job posting.
-Hopefully future oferers will check this and other of my repos and not ask for further challenges ;) 
+Hopefully future offerers will check this and other of my repos and not ask for further challenges ;) 
 
 # Problem
 
